@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<markers>
+    	<marker id="1" name="Biblioteca Zeferinas" address="" lat="-12.9468619" lng="-38.4422837" type="router" ip="10.71.1.62" status="recicle.png"/>
+		
+		<marker id="2" name="Projeto Social Casa do Povo" address="" lat="-12.9181113" lng="-38.3667265" type="router" ip="10.71.2.62" status="recicle.png"/>
+		
+		<marker id="3" name="Cenpah" address="" lat="-12.9371325" lng="-38.4408429" type="router" ip="10.71.3.62" status="recicle.png"/>
+		
+		<marker id="4" name="Associação Artístico Cultural Odeart" address="" lat="-12.9418288" lng="-38.4408429" type="router" ip="10.71.3.62" status="recicle.png"/>
+</markers>
